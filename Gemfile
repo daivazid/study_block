@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 gem "middleman", "~>3.4.0"
+gem 'wdm', '>=0.1.0' if Gem.win_platform?
 
 # Live-reloading plugin
 gem "middleman-livereload", "~> 3.1.0"
