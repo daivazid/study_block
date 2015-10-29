@@ -9,6 +9,10 @@ body {
   border-radius: 1000px;
 }
 
+div {
+  padding: em;
+}
+
 img:hover {
   opacity: 0.8;
 }
