@@ -41,6 +41,13 @@ img:hover {
       opacity: 1.0;
     }
 
+h3 {
+  color: #1b1b1b;
+  font-size:16px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+
+}
+
 .doc {
   font-size: 14px;
   margin: 0; }
