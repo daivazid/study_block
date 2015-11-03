@@ -41,7 +41,7 @@ img:hover {
       opacity: 1.0;
     }
 
-h3 {
+h4 {
   color: #1b1b1b;
   font-size:16px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
@@ -49,13 +49,14 @@ h3 {
   padding: 0;
 }
 
-h4 {
+h3 {
   color: #1b1b1b;
   font-size:18px;
   text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
   text-decoration: underline;
   margin: 0;
   padding: 0;
+  font: lucida;
 }
 
 .doc {
